@@ -35,7 +35,7 @@ public class Server {
     port(4242);
 
     // This is your test secret API key.
-    Stripe.apiKey = "sk_test_7gZWNk1p6bGpqcBSodBeqV6R";
+    Stripe.apiKey = "Secret key";
     // Replace this endpoint secret with your endpoint's unique secret
     // If you are testing with the CLI, find the secret by running 'stripe listen'
     // If you are using an endpoint defined with the API or dashboard, look in your webhook settings
